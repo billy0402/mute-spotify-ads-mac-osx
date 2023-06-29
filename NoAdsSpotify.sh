@@ -117,7 +117,7 @@ fi
 
 # How many seconds before checking if and ad is playing.
 # Setting this to a lower value will increase CPU usage
-INTERVAL_CHECK_TIME_SEC=0.5
+INTERVAL_CHECK_TIME_SEC=5
 
 # Set vars to prevent double print on alerts
 MSG_AD_ECHOED=0

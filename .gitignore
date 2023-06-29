@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# NoAdsSpotify
+stats.txt
+my_log.txt
+pid.txt
